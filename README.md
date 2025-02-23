@@ -1,5 +1,5 @@
 # Taller de Java:  
-## Ejercicio #1 Gestión de Estudiantes con List
+## 🚀 Ejercicio #1 Gestión de Estudiantes con List
 ## 📌 Propósito
 Este proyecto desarrolla un programa en Java para gestionar estudiantes utilizando una estructura de datos `List`, permitiendo almacenar nombres, mostrar la lista completa de estudiantes, ordenarla alfabéticamente y verificar si un estudiante específico está registrado.  
 El proyecto utiliza conceptos básicos de programación en Java, como colecciones (`List`), entrada/salida por consola y manipulación de datos.
